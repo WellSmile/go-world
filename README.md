@@ -1,3 +1,0 @@
-# go-world
-
-go world
